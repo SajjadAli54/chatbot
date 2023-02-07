@@ -1,10 +1,15 @@
 # Chatbot in Android Studio using Kotlin and BrainShop API
 
+# <<<<<<< HEAD
+
+![image](https://user-images.githubusercontent.com/58862894/217343322-00c79f21-f562-48b9-b7a7-3d1897682b49.png)
+
+> > > > > > > e0787450ee8c06c556351b357beaa119e4071ac6
 
 ## Introduction
 
-This is an android application developed in Kotlin that uses the BrainShop API to provide users with a conversational experience. 
-The chatbot can respond to a wide range of questions and provide information on various topics, including but not limited to, current events, sports, 
+This is an android application developed in Kotlin that uses the BrainShop API to provide users with a conversational experience.
+The chatbot can respond to a wide range of questions and provide information on various topics, including but not limited to, current events, sports,
 and technology.
 
 ## Features
@@ -23,6 +28,7 @@ and technology.
 ## Installation
 
 - Clone the repository to your local machine
+
 ```linux
 $ git clone https://github.com/[username]/Chatbot-Android-Kotlin-BrainShop.git
 ```
@@ -34,6 +40,7 @@ $ git clone https://github.com/[username]/Chatbot-Android-Kotlin-BrainShop.git
 - Run the app on the device or emulator.
 
 ## Usage
+
 - Launch the app on your device.
 - Type a question or request in the chat window.
 - The chatbot will respond with the relevant information.
