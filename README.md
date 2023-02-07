@@ -1,6 +1,6 @@
 # Chatbot in Android Studio using Kotlin and BrainShop API
 
-![image](https://user-images.githubusercontent.com/58862894/217341735-d6096382-3a47-49a5-a9ef-a445063365fd.png)
+![image](https://user-images.githubusercontent.com/58862894/217343322-00c79f21-f562-48b9-b7a7-3d1897682b49.png)
 
 
 ## Introduction
